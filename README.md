@@ -7,12 +7,8 @@ This repository contains a project on image classification using Convolutional N
 - [Introduction](#introduction)
 - [Dataset](#dataset)
 - [Model Architecture](#model-architecture)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
 
+  
 ## Introduction
 
 This project demonstrates the use of a Convolutional Neural Network (CNN) for image classification. CNNs are widely used in computer vision tasks due to their ability to automatically learn spatial hierarchies of features from images.
